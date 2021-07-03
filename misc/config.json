@@ -1,0 +1,13 @@
+{
+    "status": {
+        "state": "dnd",
+        "type": "WATCHING",
+        "name": "the chat"
+    },
+    "chat": {
+        "url": "http://api.brainshop.ai/get",
+        "bid": "157491",
+        "key": "2FuBMbuHNUq4MthS",
+        "uid": "Bean's Chat"
+    }
+}
